@@ -1,0 +1,3 @@
+[submodule "deltabook_FE"]
+	path = deltabook_FE
+	url = git@github.com:zaidiali9/Rails-with-React.git
